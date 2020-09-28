@@ -1,4 +1,6 @@
-# AMLA
+# AMLA : Anti Money Laundering Analyzer
+
+Developed By Team Scorpions : Ajay Philip Joy and Michelle Young For Microsoft Encode Hackathon on 27th September 2020
 [![Watch the video](https://github.com/aj1250/AMLA/blob/master/pictures/Amla.PNG?raw=true)](https://youtu.be/_z03YI1Wvpw)
 Money laundering is the illegal process of making large amounts of money appear to have come from a legitimate source.
 The Anti Money Laundering Analyzer (AMLA) is a cloud-based enterprise solution for monitoring, screening and catching suspicious money laundering transactions within the Canadian financial system.
